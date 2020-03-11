@@ -12,7 +12,11 @@
 
 20200309 阅读上海幻电科技公司的招聘面试题（牛客网），同时继续汇总网络相关面试题
 
-20200310 开始复习 异步 相关的 JS 知识，实现一个 event  emitter
+20200310 开始复习 异步 相关的 JS 知识（callback -> Promise -> co -> async/awit），实现一个 event  emitter
+
+20200311 实现 jsonp 
+
+
 
 0307：开始做复习架构，不能想到哪里复习到哪里
 
@@ -21,6 +25,8 @@
 建议保持良好的记录习惯，同时反思自己现在的做法
 
 清晰的时间规划，只要得到就有答案的承诺，执行力和自我补正的能力，消除疲劳的能力
+
+现在的问题是太浅了知道吗？
 
 ### 网络相关
 七层：应用，表示（ TLS ？），会话 （ RPC ），传输，网络，数据链路，物理
@@ -37,7 +43,9 @@ GET POST 请求
 
 ### JS 相关
 
-基础知识：异步（Promise相关、async/await、generator相关）
+基础知识：异步（Promise相关、async/await、generator相关），原型和原型链，面向对象this，闭包，函数（匿名函数，箭头函数，普通函数），基础类型（七个类型：String、Number、Boolean、Null、Undefined、Symbol、Object），高阶函数，命名空间
+
+Generator 的 next throw return
 
 懒加载
 
