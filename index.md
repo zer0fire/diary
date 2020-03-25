@@ -78,12 +78,12 @@ TypeScript + React
 
 
 ### CSS 相关
-懒加载，我记得 CSS 也可以又相关实现
+懒加载，我记得 CSS 也可以，相关实现可以参考张鑫旭的文章（）
 z-index 知识
 BFC 知识 (LFC FFC)
 HTML Entity &amp; &lgt; &sgt
 清除浮动
-
+记录一下，早期的 CSS 加载图片和 HTML 的 img 标签可以并行，因此速度会快一些
 
 
 
