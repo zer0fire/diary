@@ -45,40 +45,54 @@ GET POST 请求
 
 ### JS 相关
 
-基础知识：异步（Promise相关、async/await、generator相关），原型和原型链，面向对象this，闭包，函数（匿名函数，箭头函数，普通函数），基础类型（七个类型：String、Number、Boolean、Null、Undefined、Symbol、Object），高阶函数，命名空间
+基础知识：
+  * 异步（Promise 相关、async/await、generator 相关），
+  * 原型和原型链，由此衍生的对象构造和继承，面向对象 this，闭包，函数（匿名函数，箭头函数，普通函数），
+  * 基础类型（七个类型：String、Number、Boolean、Null、Undefined、Symbol、Object），
+  * 高阶函数，
+  * 命名空间和命名空间下的方法
+    * Array
+    * Object
+    * String
+    * Number
+    * Math
+ 
 
 Generator 的 next throw return
 
 懒加载
 
-高阶函数 HOC
+高阶函数 高阶组件 HOC  diff 算法(基于key，基于父子关系树)
 
 新了解的特性：URLsearchParam、fetch函数（建议详细读读 MDN ）
 
+
 ### 算法相关
 排序
+树及递归
+dynamic programming
+
 
 ###  编写/项目相关
-
+TypeScript + React 
 
 
 ### CSS 相关
-懒加载，我记得 CSS 也可以又相关实现
-
+懒加载，我记得 CSS 也可以，相关实现可以参考张鑫旭的文章（）
 z-index 知识
-
-BFC 知识
-
-HTML Entity
-
+BFC 知识 (LFC FFC)
+HTML Entity &amp; &lgt; &sgt
 清除浮动
-
+记录一下，早期的 CSS 加载图片和 HTML 的 img 标签可以并行，因此速度会快一些
 
 
 
 
 ### HTML 相关
 新了解的特性：比如 loading=lazy
+script defer 和 async
+meta og:image
+
 
 
 
